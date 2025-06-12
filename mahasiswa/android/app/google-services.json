@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "822341360875",
+    "project_id": "mahasiswa-fb4d2",
+    "storage_bucket": "mahasiswa-fb4d2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822341360875:android:7b448cb8a2db46478d72ae",
+        "android_client_info": {
+          "package_name": "com.mahasiswa.biodataapps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDETDFRQJTDBncs65P4v8pUlEhQUHFSTw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
